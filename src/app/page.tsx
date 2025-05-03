@@ -1,10 +1,10 @@
 'use client';
 
 import React, { createContext, useContext, useState, useEffect, ReactNode } from 'react';
-import { motion, AnimatePresence } from 'framer-motion';
+import { motion} from 'framer-motion';
 import { 
-  LayoutDashboard, BarChart2, Settings as SettingsIcon, Users, Calendar, TrendingUp, Award,
-  Menu, Bell, Search, Moon, Sun, User, X, Flag, ChevronRight, ChevronLeft,
+  LayoutDashboard, BarChart2, Settings as SettingsIcon,Calendar, TrendingUp, Award,
+  Menu, Bell, Search, Moon, Sun, X, Flag, ChevronRight, ChevronLeft,
   Zap, Droplet, Monitor, Clock, Dumbbell, CheckCircle2, Circle, Filter, Edit, 
   Trash2, MoreHorizontal, ArrowUpRight, ArrowDownRight, PlayCircle, 
   PauseCircle, Check, RotateCcw, PlusCircle
