@@ -4,8 +4,7 @@ import React, { createContext, useContext, useState, useEffect, ReactNode } from
 import { motion} from 'framer-motion';
 import { 
   LayoutDashboard, BarChart2, Settings as SettingsIcon,Calendar, TrendingUp, Award,
-  Menu, Bell, Search, Moon, Sun, X, Flag, ChevronRight, ChevronLeft,
-  Zap, Droplet, Monitor, Clock, Dumbbell, CheckCircle2, Circle, Filter, Edit, 
+  Menu, Bell, Search, Moon, Sun, X, Flag,Zap, Droplet, Monitor, Clock, Dumbbell, CheckCircle2, Circle, Filter, Edit, 
   Trash2, MoreHorizontal, ArrowUpRight, ArrowDownRight, PlayCircle, 
   PauseCircle, Check, RotateCcw, PlusCircle
 } from 'lucide-react';
